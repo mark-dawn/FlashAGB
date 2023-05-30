@@ -200,7 +200,7 @@
         (number "19" (effects (font (size 1.27 1.27))))
       )
       (pin output clock (at -34.29 12.7 270) (length 2.54)
-        (name "CLK~{}" (effects (font (size 1.27 1.27))))
+        (name "CLK" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
       (pin bidirectional line (at 11.43 12.7 270) (length 2.54)
