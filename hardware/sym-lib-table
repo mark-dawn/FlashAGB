@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AGB_common")(type "KiCad")(uri "${KIPRJMOD}/AGB_common.kicad_sym")(options "")(descr ""))
+)
